@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pedro Eduardo 👋
 Estudante de Sistemas de Informação na USP, procurando estágio na área de desenvolvimento backend.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-eduardo-lourenço-475038317/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroelourenço/)
 
 ### Principais tecnologias
 <div style="display: inline_block"><br/>
